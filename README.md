@@ -1,4 +1,4 @@
-### Hi there 👋
+﻿### Hi there 👋
 
 <!--
 **Gabrielrpcoelho015/Gabrielrpcoelho015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> comi o cu de curioso
+lembrei do comando:git commit
